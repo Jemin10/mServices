@@ -1,0 +1,107 @@
+[
+  {
+    "customer": "Jonathan Franklin",
+    "hours": "2",
+    "date": "2025-08-23 00:00:00.000000",
+    "location": "Nevada, USA",
+    "status": "pending"
+  },
+  {
+    "customer": "Ashley Benson",
+    "hours": "3",
+    "date": "2025-07-24 00:00:00.000000",
+    "location": "Florida, USA",
+    "status": "completed"
+  },
+  {
+    "customer": "Lisa Richards",
+    "hours": "2",
+    "date": "2025-08-12 00:00:00.000000",
+    "location": "Texas, USA",
+    "status": "pending"
+  },
+  {
+    "customer": "Mary Mcdonald",
+    "hours": "3",
+    "date": "2025-08-23 00:00:00.000000",
+    "location": "Florida, USA",
+    "status": "cancelled"
+  },
+  {
+    "customer": "Bruce Ware",
+    "hours": "2",
+    "date": "2025-07-19 00:00:00.000000",
+    "location": "Nevada, USA",
+    "status": "pending"
+  },
+  {
+    "customer": "Darren Villanueva",
+    "hours": "4",
+    "date": "2025-09-23 00:00:00.000000",
+    "location": "New York, USA",
+    "status": "completed"
+  },
+  {
+    "customer": "Robert Allen",
+    "hours": "1",
+    "date": "2025-09-30 00:00:00.000000",
+    "location": "New York, USA",
+    "status": "pending"
+  },
+  {
+    "customer": "Joanna Sherman",
+    "hours": "5",
+    "date": "2025-07-26 00:00:00.000000",
+    "location": "California, USA",
+    "status": "pending"
+  },
+  {
+    "customer": "Mr. Joshua Medina",
+    "hours": "3",
+    "date": "2025-09-26 00:00:00.000000",
+    "location": "Florida, USA",
+    "status": "completed"
+  },
+  {
+    "customer": "Kim Young",
+    "hours": "3",
+    "date": "2025-09-03 00:00:00.000000",
+    "location": "Nevada, USA",
+    "status": "cancelled"
+  },
+  {
+    "customer": "John Williams",
+    "hours": "5",
+    "date": "2025-09-18 00:00:00.000000",
+    "location": "California, USA",
+    "status": "cancelled"
+  },
+  {
+    "customer": "Kenneth Schneider",
+    "hours": "6",
+    "date": "2025-08-01 00:00:00.000000",
+    "location": "New York, USA",
+    "status": "pending"
+  },
+  {
+    "customer": "Garrett Thompson",
+    "hours": "2",
+    "date": "2025-09-29 00:00:00.000000",
+    "location": "New York, USA",
+    "status": "pending"
+  },
+  {
+    "customer": "Joseph Spencer",
+    "hours": "3",
+    "date": "2025-08-30 00:00:00.000000",
+    "location": "Texas, USA",
+    "status": "cancelled"
+  },
+  {
+    "customer": "Matthew Fischer",
+    "hours": "2",
+    "date": "2025-09-30 00:00:00.000000",
+    "location": "Florida, USA",
+    "status": "completed"
+  }
+]
